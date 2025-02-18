@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm D.M.Nayanapriya</h1>
 <h3 align="center">Passionate CS Student | From Begineer to Pro </h3>
 
-<p align="Right"> <img src="https://komarev.com/ghpvc/?username=malshannayana&label=Profile%20views&color=0e75b6&style=flat" alt="malshannayana" /> </p>
+<p align="Right"> <img src="https://komarev.com/ghpvc/?username=dmnayanapriya&label=Profile%20views&color=0e75b6&style=flat" alt="dmnayanapriya" /> </p>
 
 ---
 
