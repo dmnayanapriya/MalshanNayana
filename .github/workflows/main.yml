@@ -20,4 +20,4 @@ jobs:
 
     - name: Deploy website via SSH
       run: |
-        scp -r ./* root@52.74.18.111:/www/wwwroot/mynew.run.place
+        scp -o StrictHostKeyChecking=no -r ./* root@52.74.18.111:/www/wwwroot/mynew.run.place
